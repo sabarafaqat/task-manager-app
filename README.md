@@ -53,7 +53,8 @@
 - Theme toggle (light/dark mode).
 
 ## Loom Video
-[Add your Loom video link here]
+https://www.loom.com/share/ec38779c1c5e479198d5241579d70399
+
 
 ---
 
