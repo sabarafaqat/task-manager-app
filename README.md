@@ -57,9 +57,3 @@
 
 ---
 
-## Git Commit Messages
-- Use clear and consistent commit messages such as:
-  - feat: add task creation and editing functionality
-  - fix: resolve cursor issue on task items
-  - chore: update dependencies and cleanup code
-  - docs: add README with setup instructions
